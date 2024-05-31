@@ -2,7 +2,7 @@
   "name": "socket-server",
   "version": "1.0.0",
   "description": "A simple socket server",
-  "main": "script.js",
+  "main": "app.js",
   "scripts": {
     "start": "node app.js",
     "test": "echo \"Error: no test specified\" && exit 1"
